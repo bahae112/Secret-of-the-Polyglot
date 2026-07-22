@@ -136,7 +136,8 @@ In this case, the flag was split across the two interpretations, so viewing the 
 ```text
 .
 ├── README.md
-└── flag2of2-final.pdf (or .png)
+└── flag2of2-final.pdf / png
+
 ```
 
 ---
